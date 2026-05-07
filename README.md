@@ -1,5 +1,6 @@
 **SignConnect**
-A beginner-friendly web platform for learning and practicing **American Sign Lamguage**
+
+- A beginner-friendly web platform for learning and practicing **American Sign Lamguage**
 
 **About the Project**
 SignConnect is a simple educational website built using **HTML, CSS, and JavaScript**.
