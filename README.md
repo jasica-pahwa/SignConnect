@@ -3,6 +3,7 @@
 - A beginner-friendly web platform for learning and practicing **American Sign Lamguage**
 
 **About the Project**
+
 SignConnect is a simple educational website built using **HTML, CSS, and JavaScript**.
 The platform helps users learn basic ASL signs through different categories such as:
 
